@@ -1,0 +1,34 @@
+C:\Users\Adeury\source\repos\Practica 1 CursoASP\Practica 1 CursoASP\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Adeury\source\repos\Practica 1 CursoASP\Practica 1 CursoASP\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Adeury\source\repos\Practica 1 CursoASP\Practica 1 CursoASP\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Adeury\source\repos\Practica 1 CursoASP\Practica 1 CursoASP\bin\Debug\netcoreapp2.1\Practica 1 CursoASP.deps.json
+C:\Users\Adeury\source\repos\Practica 1 CursoASP\Practica 1 CursoASP\bin\Debug\netcoreapp2.1\Practica 1 CursoASP.runtimeconfig.json
+C:\Users\Adeury\source\repos\Practica 1 CursoASP\Practica 1 CursoASP\bin\Debug\netcoreapp2.1\Practica 1 CursoASP.runtimeconfig.dev.json
+C:\Users\Adeury\source\repos\Practica 1 CursoASP\Practica 1 CursoASP\bin\Debug\netcoreapp2.1\Practica 1 CursoASP.dll
+C:\Users\Adeury\source\repos\Practica 1 CursoASP\Practica 1 CursoASP\bin\Debug\netcoreapp2.1\Practica 1 CursoASP.pdb
+C:\Users\Adeury\source\repos\Practica 1 CursoASP\Practica 1 CursoASP\bin\Debug\netcoreapp2.1\Practica 1 CursoASP.Views.dll
+C:\Users\Adeury\source\repos\Practica 1 CursoASP\Practica 1 CursoASP\bin\Debug\netcoreapp2.1\Practica 1 CursoASP.Views.pdb
+C:\Users\Adeury\source\repos\Practica 1 CursoASP\Practica 1 CursoASP\obj\Debug\netcoreapp2.1\Practica 1 CursoASP.csprojAssemblyReference.cache
+C:\Users\Adeury\source\repos\Practica 1 CursoASP\Practica 1 CursoASP\obj\Debug\netcoreapp2.1\Practica 1 CursoASP.RazorAssemblyInfo.cache
+C:\Users\Adeury\source\repos\Practica 1 CursoASP\Practica 1 CursoASP\obj\Debug\netcoreapp2.1\Practica 1 CursoASP.RazorAssemblyInfo.cs
+C:\Users\Adeury\source\repos\Practica 1 CursoASP\Practica 1 CursoASP\obj\Debug\netcoreapp2.1\Practica 1 CursoASP.AssemblyInfoInputs.cache
+C:\Users\Adeury\source\repos\Practica 1 CursoASP\Practica 1 CursoASP\obj\Debug\netcoreapp2.1\Practica 1 CursoASP.AssemblyInfo.cs
+C:\Users\Adeury\source\repos\Practica 1 CursoASP\Practica 1 CursoASP\obj\Debug\netcoreapp2.1\Practica 1 CursoASP.TagHelpers.input.cache
+C:\Users\Adeury\source\repos\Practica 1 CursoASP\Practica 1 CursoASP\obj\Debug\netcoreapp2.1\Practica 1 CursoASP.TagHelpers.output.cache
+C:\Users\Adeury\source\repos\Practica 1 CursoASP\Practica 1 CursoASP\obj\Debug\netcoreapp2.1\Practica 1 CursoASP.RazorCoreGenerate.cache
+C:\Users\Adeury\source\repos\Practica 1 CursoASP\Practica 1 CursoASP\obj\Debug\netcoreapp2.1\Razor\Pages\About.cshtml.g.cs
+C:\Users\Adeury\source\repos\Practica 1 CursoASP\Practica 1 CursoASP\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.cshtml.g.cs
+C:\Users\Adeury\source\repos\Practica 1 CursoASP\Practica 1 CursoASP\obj\Debug\netcoreapp2.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Adeury\source\repos\Practica 1 CursoASP\Practica 1 CursoASP\obj\Debug\netcoreapp2.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Adeury\source\repos\Practica 1 CursoASP\Practica 1 CursoASP\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Adeury\source\repos\Practica 1 CursoASP\Practica 1 CursoASP\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Adeury\source\repos\Practica 1 CursoASP\Practica 1 CursoASP\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Adeury\source\repos\Practica 1 CursoASP\Practica 1 CursoASP\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Adeury\source\repos\Practica 1 CursoASP\Practica 1 CursoASP\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Adeury\source\repos\Practica 1 CursoASP\Practica 1 CursoASP\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Adeury\source\repos\Practica 1 CursoASP\Practica 1 CursoASP\obj\Debug\netcoreapp2.1\Practica 1 CursoASP.RazorTargetAssemblyInfo.cache
+C:\Users\Adeury\source\repos\Practica 1 CursoASP\Practica 1 CursoASP\obj\Debug\netcoreapp2.1\Practica 1 CursoASP.RazorTargetAssemblyInfo.cs
+C:\Users\Adeury\source\repos\Practica 1 CursoASP\Practica 1 CursoASP\obj\Debug\netcoreapp2.1\Practica 1 CursoASP.Views.pdb
+C:\Users\Adeury\source\repos\Practica 1 CursoASP\Practica 1 CursoASP\obj\Debug\netcoreapp2.1\Practica 1 CursoASP.dll
+C:\Users\Adeury\source\repos\Practica 1 CursoASP\Practica 1 CursoASP\obj\Debug\netcoreapp2.1\Practica 1 CursoASP.pdb
+C:\Users\Adeury\source\repos\Practica 1 CursoASP\Practica 1 CursoASP\obj\Debug\netcoreapp2.1\Practica 1 CursoASP.csproj.CopyComplete
